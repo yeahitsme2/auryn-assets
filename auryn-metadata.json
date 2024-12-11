@@ -1,8 +1,9 @@
 {
   "name": "Auryn",
   "symbol": "AUR",
-  "uri": "https://github.com/yeahitsme2/auryn-assets/blob/main/aurynlogo.png?raw=true"
+  "uri": "https://raw.githubusercontent.com/yeahitsme2/auryn-assets/main/auryn-metadata.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
 }
-
-}
-
