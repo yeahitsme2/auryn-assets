@@ -1,9 +1,6 @@
 {
   "name": "Auryn",
   "symbol": "AUR",
-  "uri": "https://raw.githubusercontent.com/yeahitsme2/auryn-assets/main/auryn-metadata.json",
-  "sellerFeeBasisPoints": 0,
-  "creators": null,
-  "collection": null,
-  "uses": null
+  "description": "Your trusted token for everyday value.",
+  "image": "https://raw.githubusercontent.com/yeahitsme2/auryn-assets/main/aurynlogo.png"
 }
